@@ -1,1 +1,1 @@
-# MLP-Fruit-Classifier
+# MLP-Iris-Classifier
